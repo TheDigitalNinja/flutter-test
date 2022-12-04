@@ -1,13 +1,18 @@
 # flutter_test_1
 
-A new Flutter project.
-
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Debugging
+[Configure VS Code](https://docs.flutter.dev/get-started/editor) and hit F5
 
+## Linting
+run `flutter analyze`
+
+## Testing
+run `flutter test`
+
+## Links
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
